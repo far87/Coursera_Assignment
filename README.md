@@ -1,2 +1,2 @@
 # Coursera_Assignment
-Repository holds coursera assignments
+Repository containing coursera assignments
